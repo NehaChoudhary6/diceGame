@@ -1,0 +1,37 @@
+  /* @media only screen and (max-width: 420px){
+    body{
+        background-color: blueviolet;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    p {
+        font-size: 4rem;
+    }
+    img {
+        width: 80%;
+    }
+    footer {
+        font-size: 25px;
+    }
+  }  */
+
+  @media screen and (max-width: 990px) {
+    body {
+      background-color:#393E46;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    p {
+        font-size: 4rem;
+    }
+    img {
+        width: 50%;
+    }
+    footer {
+        font-size: 25px;
+    }
+  }
